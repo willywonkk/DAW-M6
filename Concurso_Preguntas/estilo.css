@@ -1,0 +1,137 @@
+/* Estilo general */
+body {
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.6;
+    background-color: #918e8e;
+    color: #333;
+}
+
+/* Estilo para el encabezado */
+header {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #942897c0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    margin-right: 10px;
+    text-align: center;
+    flex-grow: 1;
+    margin: 0;
+    font-size: 50px;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+/* Estilos para los enlaces */
+header a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 18px;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para el footer */
+footer {
+    background-color: #942897c0;
+    color: #000000;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/*----------------PRIMERA PAGINA----------------*/
+#C_user {
+    width: 300px;
+    margin:auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#C_user p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+#C_user input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#C_user input[type="button"] {
+    padding: 10px 20px;
+    background-color: #942897c0;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#C_user input[type="button"]:hover {
+    background-color: #9e60a0c0;
+}
+
+/* Estilo general */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Contenedor de preguntas */
+.contenedor-preguntas {
+    width: 60%;
+    margin: 20px auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+/* Puntuación */
+.puntuacion {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Botón verificar */
+.b_comprobar {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.b_comprobar:hover {
+    background-color: #45a049;
+}

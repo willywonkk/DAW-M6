@@ -1,0 +1,102 @@
+[
+    {
+        "pregunta": "¿Cuál es el verdadero nombre del Rey de los piratas?",
+        "opciones": [
+            "Gold Roger",
+            "Gol D. Roger",
+            "Roger D. Gol",
+            "Goldy Roger"
+        ],
+        "respuesta_correcta": "Gol D. Roger"
+    },
+    {
+        "pregunta": "¿Cómo se llama la fruta del diablo que comió Luffy?",
+        "opciones": [
+            "Mera Mera no Mi",
+            "Gomu Gomu no Mi",
+            "Hito Hito no Mi",
+            "Suna Suna no Mi"
+        ],
+        "respuesta_correcta": "Gomu Gomu no Mi"
+    },
+    {
+        "pregunta": "¿Cuál es la recompensa actual de Monkey D. Luffy después de derrotar a Kaido?",
+        "opciones": [
+            "1,500,000,000 berries",
+            "2,500,000,000 berries",
+            "3,000,000,000 berries",
+            "4,000,000,000 berries"
+        ],
+        "respuesta_correcta": "3,000,000,000 berries"
+    },
+    {
+        "pregunta": "¿Quién fue el primer miembro en unirse a la tripulación de los Sombrero de Paja?",
+        "opciones": [
+            "Zoro",
+            "Sanji",
+            "Usopp",
+            "Nami"
+        ],
+        "respuesta_correcta": "Zoro"
+    },
+    {
+        "pregunta": "¿Cuál es el sueño de Sanji?",
+        "opciones": [
+            "Convertirse en el mejor espadachín",
+            "Encontrar el All Blue",
+            "Ser el Rey de los Piratas",
+            "Encontrar el One Piece"
+        ],
+        "respuesta_correcta": "Encontrar el All Blue"
+    },
+    {
+        "pregunta": "¿Cómo se llama el barco actual de los Sombrero de Paja?",
+        "opciones": [
+            "Thousand Sunny",
+            "Going Merry",
+            "Red Force",
+            "Moby Dick"
+        ],
+        "respuesta_correcta": "Thousand Sunny"
+    },
+    {
+        "pregunta": "¿Qué personaje tiene la habilidad de la fruta Ope Ope no Mi?",
+        "opciones": [
+            "Trafalgar Law",
+            "Donquixote Doflamingo",
+            "Crocodile",
+            "Bartholomew Kuma"
+        ],
+        "respuesta_correcta": "Trafalgar Law"
+    },
+    {
+        "pregunta": "¿Quién es el padre de Luffy?",
+        "opciones": [
+            "Monkey D. Dragon",
+            "Gol D. Roger",
+            "Portgas D. Ace",
+            "Silvers Rayleigh"
+        ],
+        "respuesta_correcta": "Monkey D. Dragon"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del Rey Marino que ataca el barco de Shanks cuando salva a Luffy?",
+        "opciones": [
+            "Seaking",
+            "Lord of the Coast",
+            "King Neptune",
+            "Poseidon"
+        ],
+        "respuesta_correcta": "Lord of the Coast"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre del arma ancestral que supuestamente tiene el poder de destruir el mundo?",
+        "opciones": [
+            "Plutón",
+            "Poseidon",
+            "Uranus",
+            "Joya Boy"
+        ],
+        "respuesta_correcta": "Plutón"
+    }
+]
